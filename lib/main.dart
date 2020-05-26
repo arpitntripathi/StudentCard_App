@@ -118,6 +118,7 @@ class _StudentCardState extends State<StudentCard> {
          },
          child: Icon(Icons.add),
         backgroundColor: Colors.grey[800],
+        tooltip: 'Increment'
      ),
     );
   }
